@@ -1,0 +1,27 @@
+site_name: AutoNeuro
+theme:
+    name: material
+    palette:
+        primary: green
+    
+    logo: ../images/logo.ico
+repo_name: autoNeuro/ML
+repo_url: https://github.com/DexDand/ML
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/DexDand/ML
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/squidfunk
+      
+      
+nav:
+    - 'index.md'
+    - 'abhi.md'
+    - 'userguide.md'
+    - 'api.md'
+    - 'howto.md'
+    - 'license.md'
